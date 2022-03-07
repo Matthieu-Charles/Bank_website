@@ -1,8 +1,11 @@
+:root{
+    scroll-behavior: smooth;
+}
+
 img{
     
     width: 100%;
 }
-
 
 a{
     text-decoration: none;
